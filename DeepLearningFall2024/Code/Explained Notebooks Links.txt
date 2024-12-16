@@ -1,0 +1,4 @@
+Lab 01 Document: https://colab.research.google.com/drive/1L6spyIhXOAM1h5jRiybbGx5_BHF0A27t?usp=sharing
+Lab 03 Document: https://colab.research.google.com/drive/1RmWA_I2dn4SkptsHLr3tsRk1Y8LOLLl2?usp=sharing
+Lab 10 Document: https://colab.research.google.com/drive/1vGoL9BoemwAD4qzWPUK50BzGWxwpqtDZ?usp=sharing
+Lab 13 Document: https://colab.research.google.com/drive/1UZ44_xJj6pfTs9wIHrJmJ1P7gsj1yTsl?usp=sharing
